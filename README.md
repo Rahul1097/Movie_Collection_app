@@ -1,7 +1,7 @@
 # Movie_Collection_app
-An app to store movie collection-Add, remove, find and display movies.
+A python application to store movie collection-Add, remove, find and display movies.
 
-**Features:**
+# Features:
 
 1. _Add new movies to collection_
 
@@ -15,7 +15,9 @@ An app to store movie collection-Add, remove, find and display movies.
 
 6. _Handles all cases lower and/or upper._
 
-**Modules used:**
+<img src = "https://github.com/Rahul1097/Movie_Collection_app/blob/master/images/image1.PNG" width=100%>
+
+# Module used
 
 **python-tabulate** - pip install tabulate
 
@@ -30,3 +32,17 @@ The main use cases of the library are:
 3. Readable presentation of mixed textual and numeric data: smart column alignment, configurable number formatting, alignment by a decimal point
 
 Reference link - https://pypi.org/project/tabulate
+
+# Steps to setup Project on local-
+
+**Step 1** - Clone the repository using git clone.
+
+```git clone { url }```
+
+**Step 2** - Install Module tabulate
+
+```pip install tabulate```
+
+**Step 3**- To run the app type below command-
+
+```python app.py```
